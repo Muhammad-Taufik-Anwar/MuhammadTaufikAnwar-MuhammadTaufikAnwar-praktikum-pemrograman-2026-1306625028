@@ -10,7 +10,7 @@
 > Mencari faktor dari suatu bilangan
 
 ## 2. Mathematical Equation
-> n \% i = 0, 1\leqi\leq n
+> n \% i = 0
 
 ## 3. Algorithm
 > 1. Mulai
