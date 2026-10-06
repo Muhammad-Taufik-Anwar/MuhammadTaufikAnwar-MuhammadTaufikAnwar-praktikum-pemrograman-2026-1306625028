@@ -1,16 +1,28 @@
-# Modul [02] - [Nama Topik Modul]
+# Modul [02] - [Mencari Faktor Bilangan]
 
-**Nama:** [Nama Mahasiswa]  
-**NIM:** [NIM Mahasiswa]  
-**Kelas:** [Kelas/Kelompok]  
+**Nama:** [Muhammad Taufik Anwar]  
+**NIM:** [1306625028]  
+**Kelas:** [Fisika C]  
 
 ---
 
 ## 1. Problem Statement
-> Jelaskan latar belakang masalah, parameter yang diketahui, serta tujuan dari praktikum atau pemodelan pada modul ini.
+> Mencari faktor dari suatu bilangan
 
 ## 2. Mathematical Equation
-> Tuliskan persamaan fisika/matematika, rumus numerik, atau penurunan rumus yang digunakan dalam modul ini menggunakan format LaTeX.
+> n \% i = 0, \quad 1 \leq i \leq n
 
 ## 3. Algorithm
-> Tuliskan langkah-langkah logika penyelesaian masalah secara sistematis sebelum diimplementasikan ke dalam kode Python (`main.py`).
+> 1. Mulai
+> 2. print "Program mencari faktor bilangan"
+> 3. print "Nama : Muhammad Taufik Anwar
+> 4. print "NIM : 1306625028"
+> 5. Masukkan bilangan (n)
+> 6. Jika n = 0, cetak pesan selesai lalu keluar dari perulangan
+> 7. inisialisasi list kosong
+> 8. inisialisasi variabel perulangan i = 1
+> 9. while i <= n
+> 10.   9.1 Jika n % 1 = 0, tambahkan i ke dalam list
+> 11.   9.2 Tambahkan nilai i dengan 1 (i = i + 1)
+> 12. Cetak hasil
+> 13. Selesai 
